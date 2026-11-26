@@ -2,6 +2,8 @@
 
 Writes a single funny, painfully honest comment a developer might leave
 above fragile production code, to entry.txt.
+The joke lands because every team has code nobody dares to touch —
+the comment warns the next reader instead of explaining the code.
 Stdlib only, no network, deterministic.
 """
 
